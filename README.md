@@ -1,16 +1,11 @@
 # kosha_attendance
 
-A new Flutter project.
+## Flutter assignmet
 
-## Getting Started
+```Screenshot```
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot (397)](https://user-images.githubusercontent.com/59501811/197184093-cc0b15e2-d182-41a9-b681-01e9ac37245b.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot (398)](https://user-images.githubusercontent.com/59501811/197184126-8da36519-e1c5-47a5-9efb-2fae8ffcf4c0.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
